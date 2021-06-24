@@ -1,0 +1,4 @@
+Current temperature is: 23.62 deg C23.620000000000005
+overcast clouds
+69
+5.05
